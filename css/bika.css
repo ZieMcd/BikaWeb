@@ -1,0 +1,73 @@
+.carousel-caption-top-left {
+  position: absolute;
+  left: 15%;
+  top: 200px;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #fff;
+  text-align: left;
+  font-family: "Cabin" !important;
+  font-size: 70px;
+}
+
+.carousel-caption-top-right {
+    position: absolute;
+    right: 15%;
+    top: 175px;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: right;
+    font-family: "Cabin" !important;
+    font-size: 30px;
+}
+
+.carousel-caption-bottom-right {
+    position: absolute;
+    right: 15%;
+    bottom: 100px;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: right;
+    font-family: "Cabin" !important;
+    font-size: 70px;
+}
+
+.carousel-caption-higher{
+    top:100px;
+}
+
+.carousel-caption-lower{
+  top:310px;
+}
+
+.carousel-caption-bottom-middle {
+  position: absolute;
+  right: 15%;
+  top: 200px;
+  left: 15%;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: 100px;
+  color: black;
+  font-family: "Cabin" !important;
+}
+
+.carousel-caption-middle-right {
+    position: absolute;
+    right: 13%;
+    top: 450px;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: black;
+    text-align: right;
+    font-family: "Cabin" !important;
+    font-size: 70px;
+}
