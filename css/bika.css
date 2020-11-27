@@ -1,7 +1,7 @@
 .carousel-caption-top-left {
   position: absolute;
-  left: 15%;
-  top: 200px;
+  left: 3%;
+  top: 2%;
   z-index: 10;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -13,8 +13,8 @@
 
 .carousel-caption-top-right {
     position: absolute;
-    right: 15%;
-    top: 175px;
+    right: 3%;
+    top: 3%;
     z-index: 10;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -26,8 +26,8 @@
 
 .carousel-caption-bottom-right {
     position: absolute;
-    right: 15%;
-    bottom: 100px;
+    right: 3%;
+    bottom: 20%;
     z-index: 10;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -71,3 +71,20 @@
     font-family: "Cabin" !important;
     font-size: 70px;
 }
+
+@media (min-width: 992px) {
+  #mainNav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+  }
+
+  #mainNav.navbar-shrink {
+    padding-top: 7px;
+    padding-bottom: 7px;
+  }
+  .carousel-item {
+    margin-bottom: -9%;
+  }
+}
+

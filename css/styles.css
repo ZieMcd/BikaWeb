@@ -10104,9 +10104,6 @@ img::-moz-selection {
   #mainNav {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
-    border-bottom-style: solid;
-    border-color: #050505;
-    border-width:3px;
     background-color: white;
     transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
   }
