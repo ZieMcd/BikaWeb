@@ -38,35 +38,34 @@
 }
 
 .carousel-caption-higher{
-    top:100px;
+    top:1%;
 }
 
 .carousel-caption-lower{
   top:310px;
 }
 
-.carousel-caption-bottom-middle {
-  position: absolute;
-  right: 15%;
-  top: 200px;
-  left: 15%;
-  z-index: 10;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  text-align: center;
-  font-size: 100px;
-  color: black;
-  font-family: "Cabin" !important;
+.carousel-caption-middle-middle {
+    position: absolute;
+    right: 20%;
+    top: 18%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: rgb(34, 34, 34);
+    text-align: right;
+    font-family: "Cabin" !important;
+    font-size: 100px;
 }
 
 .carousel-caption-middle-right {
     position: absolute;
     right: 13%;
-    top: 450px;
+    top: 30%;
     z-index: 10;
     padding-top: 20px;
     padding-bottom: 20px;
-    color: black;
+    color: rgb(34, 34, 34);
     text-align: right;
     font-family: "Cabin" !important;
     font-size: 70px;
@@ -85,6 +84,11 @@
   }
   .carousel-item {
     margin-bottom: -9%;
+  }
+
+
+  .carousel-caption-top-right.carousel-caption-lower {
+    top: 18%;
   }
 }
 
