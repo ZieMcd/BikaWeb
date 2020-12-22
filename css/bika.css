@@ -11,6 +11,12 @@
   font-size: 70px;
 }
 
+.top-right {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
 .carousel-caption-top-right {
     position: absolute;
     right: 3%;
@@ -45,6 +51,9 @@
   top:310px;
 }
 
+.line-height-lg {
+  line-height: 1.6;
+}
 .carousel-caption-middle-middle {
     position: absolute;
     right: 20%;
