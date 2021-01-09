@@ -1,4 +1,7 @@
-
+p {
+  font-family: "Cabin";
+  font-size: large;
+}
 
 .carousel-caption-top-left {
   position: absolute;
