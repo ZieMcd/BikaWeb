@@ -1,5 +1,2 @@
 # BikaWeb
-This Bika website
-
-yes
-yes * 2 
+This is the comminty website for the open source lims company called bika
