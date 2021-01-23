@@ -7,6 +7,10 @@ p {
   font-size: large;
 }
 
+div {
+  font-family: 'Open Sans', sans-serif;
+}
+
 .carousel-caption-top-left {
   position: absolute;
   left: 3%;
@@ -122,5 +126,10 @@ p {
   font-size: larger;
 }
 
+.extra-info {
+  margin-left: 20px;
+}
 
-
+.footer {
+  
+}
