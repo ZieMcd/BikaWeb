@@ -10068,7 +10068,7 @@ img::-moz-selection {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #212529;
+  background-color: white;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -10076,7 +10076,7 @@ img::-moz-selection {
   font-size: 0.75rem;
   color: #fff;
   text-transform: uppercase;
-  background-color: #fed136;
+  background-color: rgb(82, 140, 173);
   border: 0;
 }
 #mainNav .navbar-brand {

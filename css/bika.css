@@ -143,3 +143,7 @@ div {
 .a1 {
   fill: grey;
 }
+
+.w-90 {
+  width: 90% !important;
+}
