@@ -144,8 +144,8 @@ div {
   fill: grey;
 }
 
-.w-90 {
-  width: 90% !important;
+.w-80 {
+  width: 80% !important;
 
 }
 
@@ -171,4 +171,9 @@ div {
       display: none;
   }
 }
+
+.page-body{
+  font-size: small;
+}
+
 
