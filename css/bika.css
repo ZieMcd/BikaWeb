@@ -172,10 +172,15 @@ div {
   }
   .page-body{
     font-size: small;
-    width: 75%;
+    width: 65%;
   }
 }
 
+body {
+  color: #1f1f21 !important;
+}
 
 
-
+a {
+  color: #458090;
+}
