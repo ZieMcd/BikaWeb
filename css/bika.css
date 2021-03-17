@@ -158,7 +158,7 @@ div {
 
 @media (max-width: 775px) {
   .pc {
-  display: none;
+  display: none; 
   }
   .car-img{
       border-radius: 10px;
@@ -170,10 +170,12 @@ div {
   .mobile {
       display: none;
   }
+  .page-body{
+    font-size: small;
+    width: 75%;
+  }
 }
 
-.page-body{
-  font-size: small;
-}
+
 
 
